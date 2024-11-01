@@ -1,0 +1,10 @@
+{
+    "name": "alexander/renomear",
+    "license": "apache",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\Renomear\\": "src/"
+        }
+    },
+    "require": {}
+}
